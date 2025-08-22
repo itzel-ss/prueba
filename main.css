@@ -44,7 +44,7 @@ nav .content .links{
     display: flex;
 }
 .content .logo img{
-    height: 55px;
+    height: 50px;
     padding-left: 3.5rem;
 }
 .content .links li{
@@ -154,7 +154,7 @@ nav .content .links{
     display: flex;
     align-items: center;
     min-height: 100vh;
-    background: url(/imagenes/fondo-hero.png) no-repeat;
+    background: url(imagenes/fondo-hero.png) no-repeat;
     background-size: cover;
     background-position: center;
 }
@@ -169,13 +169,13 @@ nav .content .links{
 }
 
 .home .content p{
-    font-size: 16px;
+    font-size: 18px;
     color: #21daf3;
     padding: 1rem 0;
     line-height: 1.5;
 }
 .home .content h4{
-    font-size: 16px;
+    font-size: 18px;
     color: #ffca28;
     padding: 1rem 0;
     line-height: 1.5;
@@ -234,7 +234,7 @@ nav .content .links{
     display: flex;
     justify-content: center;
     align-items: end;
-    background-image: url(/imagenes/rotulacion2.jpg);
+    background-image: url(imagenes/rotulacion2.jpg);
     background-position: center;
     height: 650px;
     background-size: cover;
@@ -254,7 +254,7 @@ nav .content .links{
     color: #fff;
 }
 .rotulacion .content p{
-    font-size: 1.8rem;
+    font-size: 16px;
     color: #fff;
     padding: 1rem 0;
     line-height: 1.5;
@@ -267,7 +267,7 @@ nav .content .links{
     color: #050b3d;
     padding: .9rem 3.5rem;
     cursor: pointer;
-    font-size: 1.5rem;
+    font-size: 16px;
     font-weight: 700;
 }
 
@@ -321,9 +321,9 @@ nav .content .links{
     margin: auto;
 }
 .card-container .card .card-content{
-    padding: 16px;
+    padding: 20px;
     text-align: center;
-    font-size: 1.8rem;
+    font-size: 16px;
     color: #050b3d;
 
 }
@@ -342,12 +342,12 @@ nav .content .links{
     border-radius: 20px;
 }
 .material .content h4{
-    font-size: 1.8rem;
+    font-size: 20px;
     font-weight: 700;
     color: #050b3d;
 }
 .material .content p{
-    font-size: 1.8rem;
+    font-size: 16px;
     color: #050b3d;
     line-height: 1.5;
 }
@@ -423,7 +423,7 @@ nav .content .links{
     color: #050b3d;
     padding: 1.5rem 3.5rem;
     cursor: pointer;
-    font-size: 1.5rem;
+    font-size: 16px;
     font-weight: 700;
 }
 
@@ -490,7 +490,7 @@ nav .content .links{
 .footer .box-container p{
     display: block;
     color: #050b3d;
-    font-size: 14px;
+    font-size: 16px;
     padding: 2rem 0;
 }
 .footer .box-container .nota{
@@ -1528,3 +1528,4 @@ nav .content .links{
     }
 
 }
+
