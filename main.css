@@ -169,13 +169,13 @@ nav .content .links{
 }
 
 .home .content p{
-    font-size: 1.8rem;
+    font-size: 16px;
     color: #21daf3;
     padding: 1rem 0;
     line-height: 1.5;
 }
 .home .content h4{
-    font-size: 1.8rem;
+    font-size: 16px;
     color: #ffca28;
     padding: 1rem 0;
     line-height: 1.5;
@@ -205,12 +205,12 @@ nav .content .links{
 }
 
 .review .box-container .box h5{
-    font-size: 1.5rem;
+    font-size: 16px;
     color: #fff;
 }
 
 .review .box-container .box p{
-    font-size: 1.5rem;
+    font-size: 16px;
     color: #fff;
     padding: 1rem 0;
     line-height: 1.2;
@@ -408,7 +408,7 @@ nav .content .links{
     color: #fff;
 }
 .instalacion .row .content p{
-    font-size: 1.8rem;
+    font-size: 16px;
     color: #21daf3;
     padding: 5rem 0;
     padding-top: 1rem;
@@ -473,7 +473,7 @@ nav .content .links{
 }
 .footer .box-container h4{
     color: #050b3d;
-    font-size: 1.8rem;
+    font-size: 18px;
     margin-top: 10px;
     position: relative;
 }
@@ -490,7 +490,7 @@ nav .content .links{
 .footer .box-container p{
     display: block;
     color: #050b3d;
-    font-size: 1.5rem;
+    font-size: 14px;
     padding: 2rem 0;
 }
 .footer .box-container .nota{
@@ -1526,4 +1526,5 @@ nav .content .links{
     .accordion{
         width: 80%;
     }
+
 }
